@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+div {
+	height: 350px;
+	width: 350px;
+	display: inline-block;
+	border: 2px solid black;
+	margin: 5px;
+	vertical-align: top;
+}
+#box1 {
+	background-image: url('../images/mountain_two.jpg');
+}
+#box2 {
+	background-image: url('../images/New_york_night.jpg');
+}
+#box3 {
+	background-image: url('../images/subway_two.jpg');
+}
+#box4 {
+	background-image: url('../images/bridge_two.jpg');
+}
+img {
+	vertical-align: top;
+    width: 350px;
+    height: 350px;
+}
+
+h1, h3 {
+    text-align: center;
+}
